@@ -208,7 +208,7 @@ The Power BI dashboard file is available in this repository.
 
 ## ▶️ Google Colab
 
-[Open Project Notebook in Google Colab](https://colab.research.google.com/drive/1qlnwdbYzSA9sNcSBGEF8fHIUNeV5FGE)
+[(https://colab.research.google.com/drive/1qlnwdbYzSA9sNcSBGEF8fHIUNeV5FGE)](https://colab.research.google.com/drive/1qlnwdbYzSA9sNcSBGEF8fHIUNeVF5GE-)
 
 ---
 
